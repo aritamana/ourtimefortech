@@ -89,7 +89,7 @@ h2 strong.sep-two{
 	font-size: 24px;
 	color: #000000;
 	line-height: 34px;
-	padding: 0 30%;
+	padding: 0%;
 }
 
 #middle p span{
@@ -103,7 +103,7 @@ h2 strong.sep-two{
 	h2 strong.sep-one{display: none;}
 	h2 strong.sep-two{display: none;}
 	#middle{margin: 50px 0 20px 0;width: 90%;padding: 5%;}
-	#middle p{font-size: 20px;color: #000000;line-height: 24px;padding: 0% 0% 0% 0%;}
+	#middle p{font-size: 20px; line-height: 24px;}
 	#middle p span{color:#e63b4d;}
 }
 
