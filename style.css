@@ -157,53 +157,27 @@ ul.social li.youtube:hover{
 background-position: -180px -62px;
 }
 
-
-@media screen and (max-width: 568px){
-	#header{
-		width: 100%;
-		padding: 60px 0 30px 0;
-		margin: auto;
-	}
-
-
-	h1{
-		font-size: 53px;
-	}
-	
-	h2{
-		
-		font-size: 15px;
-		letter-spacing: 2px;
-	}
-
-	h2 strong.sep-one{
-		width: 30px;
-		margin-left: -40px;
-		margin-top: 7px;
-	}
-	
-	h2 strong.sep-two{
-		width: 30px;
-		margin-left: 10px;
-		margin-top: 7px;
-	}
-
-	#middle{
-		margin: 50px 0 20px 0;
-		width: 90%;
-		padding: 5%;
-	}
-	
-	#middle p{
-		font-size: 18px;
-		color: #000000;
-		line-height: 24px;
-		padding: 0;
-	}
-	
-	#middle p span{
-		color:#e63b4d;
-	}
-
-	
+@media screen and (max-width: 400px) {
+	#header{width: 100%; padding: 60px 0 30px 0; margin: auto;}
+	h1{font-size: 53px;}
+	h2{font-size: 15px;letter-spacing: 2px;
+	h2 strong.sep-one{width: 30px;margin-left: -40px;margin-top: 7px;}
+	h2 strong.sep-two{width: 30px;margin-left: 10px;margin-top: 7px;
+	#middle{margin: 50px 0 20px 0;width: 90%;padding: 5%;}
+	#middle p{font-size: 18px;color: #000000;line-height: 24px;padding: 0;}
+	#middle p span{color:#e63b4d;}
 }
+
+@media screen and (min-width: 401px) and (max-width: 720px) {
+    
+}
+
+@media screen and (min-width: 721px) and (max-width: 1280px) {
+    
+}
+
+@media screen and (min-width: 1281px) {
+    
+}
+
+
