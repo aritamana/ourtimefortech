@@ -110,7 +110,7 @@ h2 strong.sep-two{
 @media screen and (min-width: 401px) and (max-width: 720px) {
 	#header{padding: 150px 0 50px 0;}
 	h1{font-size: 90px;}
-	h2{font-size: 20px;letter-spacing: 2px;}
+	h2{font-size: 25px;letter-spacing: 2px;}
 	h2 strong.sep-one{display: none;}
 	h2 strong.sep-two{display: none;}
 }
